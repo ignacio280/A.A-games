@@ -1,46 +1,46 @@
 # Pants Farm: plan para completar el Community Center en el Año 1 (jugando solo)
 
 **Partida:** NachoPants. Granja Riverland, Stardew 1.6.15, Game ID `449276444`.
-**Punto de partida del save:** mañana del **Sábado 20 de Primavera, Año 1**, con 5.003g.
+**Punto de partida (save actualizado):** mañana del **Lunes 22 de Primavera, Año 1**, con 4.095g.
 **Meta:** completar los 6 cuartos del Community Center **antes del 28 de Invierno del Año 1**. La meta planificada es alrededor del 10 de Invierno, así que quedan ~18 días de margen.
 
-Este plan es para **un solo jugador (Nacho)**. SofiPants no se conecta.
+Este plan es para **un solo jugador (Nacho)**.
 
-Las predicciones (carrito, clima, eventos nocturnos, pisos de hongos y trenes) vienen de [Stardew Predictor](https://mouseypounds.github.io/stardew-predictor/) v5.0.8, ejecutado sobre tu save. Mientras no uses mods y sigas en la 1.6.15, el carrito y el clima son fijos. Lo único que puede cambiar es que un día de "Lluvia" se vuelva tormenta.
+Las predicciones (carrito, clima, eventos nocturnos, pisos de hongos y trenes) vienen de [Stardew Predictor](https://mouseypounds.github.io/stardew-predictor/) v5.0.8, ejecutado sobre tu save. Las volví a correr con el save nuevo y **no cambió nada**: el carrito y el clima están fijados por la semilla de la partida.
 
 ---
 
-## 1. Qué tienes hoy (análisis del save)
+## 1. Qué tienes hoy (save del Lunes 22 de Primavera)
 
 **Nacho:**
-- Niveles: Farming 2, Fishing 4, Foraging 3, Mining 0, Combat 0. Energía máxima: 270.
-- En el inventario: Fiberglass Rod, Hacha básica, Azada, 2 regaderas y 9 Melon Seeds.
-- En el cofre de la granja: **Pickaxe básico, Rusty Sword, Slingshot** y dos Scythe.
-- Recetas útiles: **Cookout Kit** (sirve para cocinar sin cocina), Crab Pot, Basic Fertilizer y Furnace.
+- Niveles: **Farming 3** (921 XP; el nivel 4 está en 1.300), Fishing 4, Foraging 3 (943 XP; el nivel 4 está en 1.400), Mining 0, Combat 0.
+- **Mochila de 24** ✅. Llegó al **piso 45** y ya abrió los cofres de los pisos 10, 20 y 40.
+- En el inventario: Pickaxe básico, Azada, **Steel Smallsword**, Fiberglass Rod y **82 Basic Fertilizer**.
+- En los cofres: **Hacha básica** y **Regadera**. Sácalas antes de salir: hoy no tienes ninguna de las dos en el inventario.
+- Recetas útiles: **Cookout Kit**, **Bee House**, Speed-Gro, Crab Pot, Sprinkler y Basic Fertilizer.
 
-**Qué pasa con lo de Sofi si ella no se conecta:**
-- Su **pico de cobre, su espada de acero y sus 5 geodas** quedan en su inventario y **no los puedes usar**.
-  > Si Sofi puede conectarse **1 minuto** y dejar su pico y su espada en un cofre, te ahorras 2.000g y 2 días. Es opcional; el plan no lo necesita.
-- Lo que Sofi ya guardó en los cofres (Bat Wings, Slime, minerales) **sí es tuyo**.
-- El **ascensor de la mina es compartido**, así que puedes bajar directo al **piso 40** aunque Nacho nunca haya entrado.
-- Los **cofres de premio** de la mina (pisos 10, 20 y 40) son por jugador. Nacho **todavía puede abrirlos**, y el del **20 trae un arma**.
+**Cambios desde el sábado que afectan al plan:**
+- ⚠️ **Vendiste el Bullhead.** Tienes que pescar otro en el lago de la montaña, y **no lo vendas**.
+- ⚠️ **No se sembraron las chirivías.** Hay **65 casillas aradas vacías**, así que hoy es el último día útil para hacerlo: crecen en 4 días y la cosecha cae el viernes 26.
+- ⚠️ **No se mejoró el hacha**, así que esa parte del plan se corre.
+- ⚠️ **En la cueva elegiste los Murciélagos de fruta, no los Hongos.** Eso tiene una parte buena y una mala:
+  - **La buena:** los murciélagos dejan fruta de cualquier árbol (Apple, Apricot, Cherry, Orange, Peach, **Pomegranate**) y frutas silvestres (**Spice Berry, Wild Plum, Blackberry**). Esas frutas sirven para Artisan, Enchanter's, Fodder, Summer Foraging y Fall Foraging.
+  - **La mala:** el Purple Mushroom tiene que salir de la mina, en los pisos 80+ o en los pisos de hongos.
+  - **Revisa la cueva todos los días** y guarda cada fruta de árbol.
+- ✅ El Stone Owl apareció en la granja.
+- ✅ Ya tienes **12 Bat Wing** (con 10 alcanza) y **1 Aquamarine** para Dye.
 
 **En la granja:**
-- **41 coliflores.** Hay 16 listas hoy y 24 listas mañana.
-- **58 fresas.** Primera cosecha el ~22 de Primavera y otra el ~26.
-- 39 casillas aradas vacías.
-- Árboles: 1 roble maduro, 4 pinos maduros y 2 arces jóvenes.
-- **12 tocones grandes.** Con el hacha de cobre dan 24 de Hardwood y ~300 XP de Foraging.
+- **24 coliflores listas** para cosechar hoy.
+- **58 fresas** que maduran hoy o mañana y vuelven a dar a los 4 días.
+- 65 casillas aradas vacías.
+- 12 tocones grandes.
+- Árboles: 1 roble maduro, pinos maduros y 2 arces jóvenes.
 
 **En los cofres:**
-- 159 Sap, que alcanza para ~79 Basic Fertilizer.
-- 31 Salmonberry, para Jelly.
-- **1 Red Mushroom de oro.** Guárdalo para Dye.
-- 9 Bat Wing, 23 Slime, 20 Speed-Gro y 9 Melon Seeds más.
-- 80 Copper Ore, 4 Copper Bar, 23 Coal, 163 de madera y 356 de piedra.
-
-**Estado del Community Center:**
-
+- 249 de madera, 385 de piedra, 81 Copper Ore, 4 Copper Bar, 7 Iron Ore y 25 Coal.
+- 37 Salmonberry, **1 Red Mushroom de oro**, 12 Bat Wing, 27 Slime y 1 Aquamarine.
+- 20 Speed-Gro y 18 Melon Seeds.
 **Estado del Community Center (bundles de la 1.6; algunos son "remix"):**
 
 | Cuarto | Bundle | Estado | Lo que falta |
@@ -168,93 +168,92 @@ Son opcionales; dejan carbón y otras cosas.
    - Foraging 5: **Gatherer**.
    - Combat 5: **Fighter**.
 8. **Recetas que vas a desbloquear:**
-   - **Bee House:** Farming 3.
-   - **Preserves Jar:** Farming 4.
-   - **Tapper:** Foraging 4 (te faltan ~470 XP, que salen de los tocones y árboles).
+   - **Bee House:** ya la tienes.
+   - **Preserves Jar:** Farming 4 (te faltan ~380 XP; la coliflor de hoy alcanza).
+   - **Tapper:** Foraging 4 (te faltan ~460 XP, que salen de los tocones y árboles).
    - **Staircase:** Mining 2.
    - **Sprinkler:** ya la tienes. Craftea uno por cada Iron Bar que te sobre para regar menos.
-9. **Cueva de Demetrius:** cuando llegues a 25.000g ganados en total (vas en 22.878), aparece el evento. **Elige Hongos.** Te van a salir Purple, Red y Common Mushroom en casa, sin bajar tanto en la mina.
+9. **Cueva de los murciélagos de fruta (ya la elegiste):** revísala **todos los días**. Guarda cada fruta en el cofre CC:
+   - **Apple** ×4: 3 para Fodder y 1 para Artisan.
+   - **Pomegranate** ×2: una para Enchanter's y otra para Artisan.
+   - Apricot, Cherry, Orange y Peach sirven para Artisan.
+   - **Spice Berry** (Summer Foraging) y **Wild Plum / Blackberry** (Fall Foraging).
+   - Si los murciélagos te dan manzanas y granadas antes del 10 de Verano, **no compres los árboles frutales** y te ahorras 10.000g.
 10. **Comida para la mina:** lleva lo que sobre de las cosechas (fresas, coliflor), o Salad y Field Snack.
 
 ---
 
 ## 5. Plan día por día
 
-### 🌸 PRIMAVERA
+### 🌸 PRIMAVERA (desde el save del Lunes 22)
 
-**Sáb 20 ☀️** (esta noche: Stone Owl)
-- **Mañana:**
-  - Cosechar las 16 coliflores listas y regar todo. Despachar.
-  - Craftear **40 Basic Fertilizer** y **1 Furnace más**.
-  - Poner Copper Ore en los dos hornos. Quieres terminar con 10 Copper Bar: 5 para el hacha y 5 para el pico.
-- **9:00, Pierre:** comprar **39 Parsnip Seeds** (780g). Fertilizar y sembrar las 39 casillas vacías.
-- **Clint:** **Hacha → Copper Axe** (2.000g + 5 Copper Bar). Estará lista el lunes 22.
-- **Tarde:** lago de la montaña. Pescar **Bullhead** (entregar → Lake 3/4) y **Chub** (guardar en el cofre CC para Field Research).
-
-**Dom 21 ☀️**
-- **Mañana:** cosechar las 24 coliflores restantes y regar.
-- **Playa:**
-  - Recoger un **Cockle** → **Crab Pot ✅**.
-  - Cruzar el puente al este: recoger **Sea Urchin** (Dye) y guardarlo.
-- **Tarde, primera ida a la mina** (lleva el Pickaxe, la Rusty Sword y el Slingshot del cofre):
-  - Bajar al piso 1 para activar el ascensor y la misión de Marlon.
-  - **Ascensor al 10 y al 20: abrir los cofres de premio** (el del 20 trae un arma).
-  - **Ascensor al 40:** abrir el cofre y minar un rato. Buscas Iron Ore, **Frozen Tear**, **Aquamarine** y **1 Frozen Geode**, que guardas sin abrir.
-- **Noche:** llenar los hornos con cobre.
+> Si en tu juego ya estás en el **Martes 23**, empieza desde el martes y haz también las tareas ⭐ del lunes: la coliflor, las chirivías y el hacha.
 
 **Lun 22 ☀️**
 - **Mañana:**
-  - Cosechar **las fresas (~58)** y despacharlas. Guarda 2.
-  - Regar.
-- **Clint:** buscar el **Copper Axe** y dejar el **Pickaxe → Copper Pickaxe** (2.000g + 5 Copper Bar). Estará listo el jueves 25.
-- **Resto del día:**
-  - **Talar los 12 tocones grandes** → 24 Hardwood → **entregar 10 → Construction ✅**.
-  - Talar árboles por madera y Sap.
+  - Sacar la **Regadera** y el **Hacha** del cofre.
+  - Cosechar las **24 coliflores**, regar las fresas y despachar.
+- **⭐ Pierre:** comprar **65 Parsnip Seeds** (1.300g).
+  - Poner **Basic Fertilizer** en las 65 casillas vacías (tienes 82) y sembrar.
+  - Se cosechan el **viernes 26**. Son tu intento de **5 chirivías de oro para Quality Crops**; con 65 plantas es muy probable.
+- **⭐ Clint:**
+  - Poner 5 Copper Ore en el horno y sacar la 5ª Copper Bar.
+  - **Hacha → Copper Axe** (2.000g + 5 Copper Bar). Estará lista el jueves 25, porque el miércoles hay festival.
+- **Tarde:** lago de la montaña. Pescar **Bullhead → entregarlo al tiro (Lake 3/4)** y **Chub** (guardarlo para Field Research).
+- **Esta noche:** con la coliflor deberías subir a **Farming 4**, que trae la receta del Preserves Jar.
 
 **Mar 23 ☀️**
-- **Mañana:** regar.
-- **Pierre:**
-  - Comprar **39 Parsnip Seeds** para mañana (Pierre cierra el miércoles).
-  - Comprar la **Mochila de 24** (2.000g). Es indispensable si juegas solo.
-- Si ya subiste a **Farming 4**, craftear el **Preserves Jar** (50 madera, 40 piedra, 8 carbón) y cargarlo con **Salmonberry → Jelly**.
-- **Resto del día:** talar. Necesitas ~350 de madera para el granero y 160 para 4 Tappers.
+- **Mañana:**
+  - Cosechar **las fresas** (si están listas) y despacharlas. Guarda 2.
+  - Regar las chirivías.
+- Craftear el **Preserves Jar** (50 madera, 40 piedra, 8 carbón) → **Salmonberry → Jelly**.
+- **Playa:**
+  - **Cockle → Crab Pot ✅**.
+  - Cruzar el puente al este: **Sea Urchin** (guardarlo para Dye).
+- **Tarde: mina desde el 45.** Vas a buscar:
+  - **Frozen Tear → Geologist's 3/4**.
+  - **1 Frozen Geode**: guárdala **sin abrir**.
+  - **Solar Essence**: con 10 Bat Wing → **Adventurer's ✅**.
+  - Iron Ore y **Cave Carrot**.
 
 **Mié 24 ☀️ – Flower Dance**
-- **Antes de las 9:**
-  - Cosechar las chirivías. Si hay **5 de oro → Quality Crops 1/3**.
-  - Replantar con fertilizante y regar.
-- Ir a la Flower Dance.
+- **Antes de las 9:** regar y revisar la cueva de los murciélagos.
+- Después, al festival.
 
 **Jue 25 ☀️**
 - **Mañana:**
   - Regar.
   - Sacar la **Jelly → Artisan 1/6**.
-- **Clint:** buscar el **Copper Pickaxe**.
-- Si ya tienes **Foraging 4**, craftear **4 Tappers** y ponerlos así:
-  - 1 en el **roble** de la granja (Oak Resin, 7 días).
-  - 1 en un **pino** de la granja (Pine Tar, 5 días).
-  - 2 en **arces maduros** del Bosque Cindersap (Maple Syrup, 9 días).
-- **Tarde: mina desde el 40.** Frozen Tear, Aquamarine, **1 Bat Wing** (para las 10) y **Solar Essence**.
-  - **Entregar 10 Bat Wing + Solar Essence → Adventurer's ✅.**
+- **Clint:**
+  - Buscar el **Copper Axe**.
+  - Dejar el **Pickaxe → Copper Pickaxe** (2.000g + 5 Copper Bar). Estará listo el sábado 27.
+- **Resto del día:**
+  - **Talar los 12 tocones grandes** → 24 Hardwood → **entregar 10 → Construction ✅**.
+  - Talar árboles. Con los tocones y los árboles deberías llegar a **Foraging 4** (Tapper) esta noche o mañana.
 
 **Vie 26 ☀️ – CARRITO ⭐**
-- **Mañana:** cosechar las fresas y regar.
+- **Mañana:**
+  - Cosechar las **65 chirivías**. Si hay **5 de oro → Quality Crops 1/3**. Si no, se reemplaza con Pumpkin de oro en otoño.
+  - Regar las fresas.
 - **Carrito:** comprar **Fiddlehead Fern (900g) → Chef's 1/6** y **Tuna (500g) → Ocean 2/4**.
-- **Tarde:** mina, pisos 40–50.
+- Si ya tienes Foraging 4, craftear **4 Tappers** (40 madera + 2 Copper Bar cada uno) y ponerlos así:
+  - 1 en el **roble**.
+  - 1 en un **pino**.
+  - 2 en **arces maduros** del Bosque Cindersap.
+- **Tarde:** seguir talando para juntar madera (el granero pide 350).
 
 **Sáb 27 ☀️**
-- **Robin:** **Barn** (6.000g + 350 madera + 150 piedra). Si te falta madera, se la compras a ella. Queda listo el 2 de Verano.
-- **Resto del día:** mina 45–55.
+- **Mañana:** cosechar la 2ª tanda de fresas y regar.
+- **Clint:** buscar el **Copper Pickaxe**.
+- **Robin:** pedir el **Barn** (6.000g + 350 madera + 150 piedra). Si te falta madera, se la compras a ella. Queda listo el 2 de Verano.
+  - Si no te alcanza la plata, pídelo el **lunes 1 de Verano**, después de comprar las semillas.
+- **Tarde:** mina, pisos 45–55.
 
 **Dom 28 ☀️** (último día de primavera)
-- **Mañana:** cosechar la 2ª tanda de chirivías. Si todavía no tenías las 5 de oro, completarlas ahora.
 - **Arar para el verano (~85 casillas):**
-  - Basic Fertilizer donde va el melón y el maíz.
+  - Basic Fertilizer donde van el melón y el maíz.
   - Speed-Gro donde van los arándanos.
-- **Tarde:** mina.
-
----
-
+- **Tarde:** mina, pisos 55–60.
 ### ☀️ VERANO
 
 **Lun 1 ☀️**
@@ -311,7 +310,7 @@ Son opcionales; dejan carbón y otras cosas.
 - **Tarde:** mina (hongos en el 81).
 
 **Mié 10 ☀️ – Día de pesca**
-- **Pierre:** si ya juntaste 10.000g, comprar **Apple Sapling (4.000g)** y **Pomegranate Sapling (6.000g)**. Plantarlos con los 8 cuadros de alrededor libres.
+- **Pierre:** si la cueva todavía no te dio **4 Apple + 2 Pomegranate**, y ya juntaste 10.000g, comprar **Apple Sapling (4.000g)** y **Pomegranate Sapling (6.000g)**. Si solo te falta una de las dos frutas, compra solo ese árbol. Plantarlos con los 8 cuadros de alrededor libres.
   > **Fecha límite para plantarlos: 15 de Verano.** Maduran en 28 días y dan fruta todo el otoño.
 - **Tarde:** lago de la montaña. **Sturgeon** (6am–7pm). Si no sale, lo intentas otra vez en invierno.
 
