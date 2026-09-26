@@ -1,39 +1,45 @@
-# Pants Farm: plan para completar el Community Center en el Año 1
+# Pants Farm: plan para completar el Community Center en el Año 1 (jugando solo)
 
-**Partida:** NachoPants (host) + SofiPants (farmhand). Granja Riverland, Stardew 1.6.15, Game ID `449276444`.
-**Punto de partida del save:** mañana del **Sábado 20 de Primavera, Año 1**. Tienen 5.003g.
-**Meta:** tener los 6 cuartos del Community Center completos **antes del 28 de Invierno del Año 1**. La meta planificada es alrededor del 10 de Invierno, así que quedan ~18 días de margen.
+**Partida:** NachoPants. Granja Riverland, Stardew 1.6.15, Game ID `449276444`.
+**Punto de partida del save:** mañana del **Sábado 20 de Primavera, Año 1**, con 5.003g.
+**Meta:** completar los 6 cuartos del Community Center **antes del 28 de Invierno del Año 1**. La meta planificada es alrededor del 10 de Invierno, así que quedan ~18 días de margen.
 
-Las predicciones (carrito, clima, eventos nocturnos, pisos de hongos en la mina y trenes) vienen de [Stardew Predictor](https://mouseypounds.github.io/stardew-predictor/) v5.0.8, ejecutado sobre tu save. Mientras no uses mods y sigas en la 1.6.15, el carrito y el clima son fijos. Lo único que el juego puede variar es que un día de "Lluvia" se vuelva tormenta, o que uno de "Sol" se vuelva viento.
+Este plan es para **un solo jugador (Nacho)**. SofiPants no se conecta.
 
-> En el plan, **N = Nacho** (granja + pesca, porque ya tiene pesca 4 y la Fiberglass Rod) y **S = Sofi** (mina + forrajeo, porque ya llegó al piso 42 y tiene espada de acero).
-> Si alguna vez juega uno solo, hace primero las tareas marcadas ⭐ de ambos.
+Las predicciones (carrito, clima, eventos nocturnos, pisos de hongos y trenes) vienen de [Stardew Predictor](https://mouseypounds.github.io/stardew-predictor/) v5.0.8, ejecutado sobre tu save. Mientras no uses mods y sigas en la 1.6.15, el carrito y el clima son fijos. Lo único que puede cambiar es que un día de "Lluvia" se vuelva tormenta.
 
 ---
 
-## 1. Qué tienen hoy (análisis del save)
+## 1. Qué tienes hoy (análisis del save)
 
-| | Nacho | Sofi |
-|---|---|---|
-| Farming / Fishing / Foraging / Mining / Combat | 2 / 4 / 3 / 0 / 0 | 3 / 2 / 2 / 3 / 1 |
-| Herramientas | Fiberglass Rod, Hacha básica, Azada, 2 regaderas | Pico de cobre, Steel Smallsword |
-| Piso más profundo | 0 | **42** (tiene ascensor al 40) |
-| Recetas clave | Crab Pot, **Cookout Kit** (sirve para cocinar sin cocina), Basic Fertilizer, Furnace | **Bee House**, **Staircase**, Speed-Gro, Cherry Bomb |
+**Nacho:**
+- Niveles: Farming 2, Fishing 4, Foraging 3, Mining 0, Combat 0. Energía máxima: 270.
+- En el inventario: Fiberglass Rod, Hacha básica, Azada, 2 regaderas y 9 Melon Seeds.
+- En el cofre de la granja: **Pickaxe básico, Rusty Sword, Slingshot** y dos Scythe.
+- Recetas útiles: **Cookout Kit** (sirve para cocinar sin cocina), Crab Pot, Basic Fertilizer y Furnace.
+
+**Qué pasa con lo de Sofi si ella no se conecta:**
+- Su **pico de cobre, su espada de acero y sus 5 geodas** quedan en su inventario y **no los puedes usar**.
+  > Si Sofi puede conectarse **1 minuto** y dejar su pico y su espada en un cofre, te ahorras 2.000g y 2 días. Es opcional; el plan no lo necesita.
+- Lo que Sofi ya guardó en los cofres (Bat Wings, Slime, minerales) **sí es tuyo**.
+- El **ascensor de la mina es compartido**, así que puedes bajar directo al **piso 40** aunque Nacho nunca haya entrado.
+- Los **cofres de premio** de la mina (pisos 10, 20 y 40) son por jugador. Nacho **todavía puede abrirlos**, y el del **20 trae un arma**.
 
 **En la granja:**
 - **41 coliflores.** Hay 16 listas hoy y 24 listas mañana.
-- **58 fresas.** La primera cosecha es ~22 de Primavera y vuelven a dar cada 4 días.
-- 1 chirivía, 1 bean starter y 39 casillas aradas vacías.
-- Árboles: 1 roble maduro, 4 pinos maduros y 2 arces todavía jóvenes.
-- **12 tocones grandes** en la granja. Con el hacha de cobre dan 24 de hardwood.
+- **58 fresas.** Primera cosecha el ~22 de Primavera y otra el ~26.
+- 39 casillas aradas vacías.
+- Árboles: 1 roble maduro, 4 pinos maduros y 2 arces jóvenes.
+- **12 tocones grandes.** Con el hacha de cobre dan 24 de Hardwood y ~300 XP de Foraging.
 
-**En los cofres (lo importante):**
+**En los cofres:**
 - 159 Sap, que alcanza para ~79 Basic Fertilizer.
-- 31 Salmonberry, que sirven para Jelly.
-- 1 Red Mushroom de oro: **guárdenlo para el Dye Bundle**.
-- 9 Bat Wing (les falta 1 para las 10), 23 Slime, 20 Speed-Gro y 9+9 Melon Seeds.
-- 62+18 Copper Ore, 4 Copper Bar, 23 Coal, 163 de madera y 356 de piedra.
-- Sofi lleva encima 3 Geode y 2 Omni Geode.
+- 31 Salmonberry, para Jelly.
+- **1 Red Mushroom de oro.** Guárdalo para Dye.
+- 9 Bat Wing, 23 Slime, 20 Speed-Gro y 9 Melon Seeds más.
+- 80 Copper Ore, 4 Copper Bar, 23 Coal, 163 de madera y 356 de piedra.
+
+**Estado del Community Center:**
 
 **Estado del Community Center (bundles de la 1.6; algunos son "remix"):**
 
@@ -71,6 +77,8 @@ Las predicciones (carrito, clima, eventos nocturnos, pisos de hongos en la mina 
 
 ---
 
+---
+
 ## 2. Compras obligatorias en el Carrito Ambulante (fechas exactas del predictor)
 
 El carrito está en el Bosque Cindersap los **viernes y domingos** de 6am a 8pm, y los 3 días del Night Market (15–17 de Invierno) en el bote.
@@ -85,22 +93,22 @@ El carrito está en el Bosque Cindersap los **viernes y domingos** de 6am a 8pm,
 | **Dom 7 Verano** | Tiger Trout | 800g | River Fish | Recomendado |
 | **Vie 12 Verano** | Cloth | 1.410g | Artisan | ⭐ Sí |
 | **Vie 12 Verano** | Duck Feather | 750g | Dye | ⭐ Sí |
-| Vie 12 Verano | Tilapia | 700g | Ocean Fish | Solo si no la pescaron el 2–4 de Verano |
+| Vie 12 Verano | Tilapia | 700g | Ocean Fish | Solo si no la pescaste el 2–4 de Verano |
 | **Dom 14 Verano** | Duck Egg | 700g | Animal | ⭐ Sí |
 | **Dom 14 Verano** | Wool | 1.020g | Animal | ⭐ Sí |
 | **Vie 19 Verano** | Ghostfish | 200g | Specialty Fish | ⭐ Sí (barato) |
-| Vie 26 Verano | Pine Tar | 500g | Exotic | Solo si todavía no tienen Tapper en un pino |
-| **Dom 28 Verano** | Pufferfish | 700g | Specialty Fish | Si no lo pescaron |
+| Vie 26 Verano | Pine Tar | 500g | Exotic | Solo si todavía no tienes Tapper en un pino |
+| **Dom 28 Verano** | Pufferfish | 700g | Specialty Fish | Si no lo pescaste |
 | **Vie 5 Otoño** | **Rabbit's Foot** | 2.825g | Enchanter's | ⭐⭐ Sí, el más importante |
 | **Dom 7 Otoño** | Coconut | 300g | Exotic | Recomendado |
-| **Dom 7 Otoño** | Fried Egg | 400g | Chef's | ⭐ Sí (si no cocinaron uno) |
+| **Dom 7 Otoño** | Fried Egg | 400g | Chef's | ⭐ Sí (si no cocinaste uno) |
 | **Dom 14 Otoño** | **Truffle** | 2.500g | Chef's | ⭐⭐ Sí (no hay cerdos en el Año 1) |
 | **Vie 19 Otoño** | **Red Cabbage** | 780g | Dye | ⭐⭐ Sí (Pierre recién vende la semilla en el Año 2) |
-| **Dom 21 Otoño** | Sandfish | 900g | Specialty Fish | ⭐ Sí, salvo que ya tengan el bus al desierto |
+| **Dom 21 Otoño** | Sandfish | 900g | Specialty Fish | ⭐ Sí, salvo que ya tengas el bus al desierto |
 | **Dom 21 Otoño** | Large Egg (blanco) | 300g | Animal | ⭐ Sí |
-| Vie 26 Otoño | Bullhead | 225g | Lake Fish | Solo si no lo pescaron |
+| Vie 26 Otoño | Bullhead | 225g | Lake Fish | Solo si no lo pescaste |
 | **Dom 28 Otoño** | Large Egg (café) | 285g | Animal | ⭐ Sí |
-| Dom 28 Otoño | Rabbit's Foot / Wool | 2.825g / 1.020g | Respaldo | Solo si se les pasó el 5 de Otoño o el 14 de Verano |
+| Dom 28 Otoño | Rabbit's Foot / Wool | 2.825g / 1.020g | Respaldo | Solo si se te pasó el 5 de Otoño o el 14 de Verano |
 | Vie 5 Invierno | Gold Bar | 1.250g | Blacksmith's | Respaldo |
 | Lun 15 Invierno (bote) | Nautilus Shell | 700g | Field Research | Respaldo |
 | Mar 16 Invierno (bote) | Duck Egg / Red Mushroom / Wild Plum ×5 | 475g / 900g / 240g | Respaldos | |
@@ -136,330 +144,329 @@ Son opcionales; dejan carbón y otras cosas.
 - Primavera: 22 (pisos 84/93/98), 23 (94), 26 (82), 28 (88).
 - Verano: 2 (82/119), 5 (93), 6 (83), 8 (81/88/112/118), 9 (81/102/103), 14 (91), 17 (91/106/113), 21 (82/107).
 
+
+**Pisos de hongos en Otoño (por si todavía te falta el Purple Mushroom):** 1 (103/116), 4 (96/98/104), 5 (102), 7 (91/104/114), 8 (91/111), 9 (81/96), 13 (92/103/109), 14 (112/118).
+
 ---
 
-## 4. Reglas generales (para todos los días)
+## 4. Reglas para jugar solo
 
-1. **Todas las mañanas, N:** regar, cosechar y despachar. Cuando haya animales, S los acaricia (en 1 minuto).
-2. **Guarden 1 ejemplar de cada ítem de bundle** en un cofre marcado "CC" y entréguenlo apenas lo tengan. Si Sofi entrega algo, igual cuenta para los dos.
-3. **No abran geodas congeladas:** guarden **1 Frozen Geode** para Field Research.
-4. **Horarios de tiendas:**
-   - Pierre cierra los **miércoles**.
-   - Marnie cierra **lunes y martes**.
-   - Robin cierra los **martes**.
-   - Clint cierra los días de festival.
-5. **Cuando suban de nivel, elijan estos perks:**
+1. **Rutina de cada mañana (6:00–~8:30):** regar, cosechar, despachar, acariciar la vaca y revisar Tappers y máquinas. Después viene la **actividad principal del día** (mina, pesca, tala o forrajeo), que está marcada en el plan.
+2. **No siembres de más.** Solo, más de ~90 casillas te comen la energía de la mina. Las cantidades del plan ya están ajustadas para eso.
+3. **Los días de lluvia no hay que regar**, así que son días completos de mina o de pesca. Úsalos bien: Verano 2, 4, 13, 16 y 26; Otoño 4, 13, 24 y 26.
+4. Guarda **1 ejemplar de cada ítem de bundle** en un cofre "CC" y entrégalo apenas lo tengas.
+5. **No abras geodas congeladas hasta tener guardada 1 Frozen Geode** para Field Research.
+6. **Horarios:**
+   - Pierre cierra los miércoles.
+   - Marnie cierra lunes y martes.
+   - Robin cierra los martes.
+   - Clint mejora **una herramienta a la vez** y demora 2 días.
+7. **Perks al subir de nivel:**
    - Farming 5: **Tiller**.
    - Fishing 5: **Fisher**.
    - Mining 5: **Miner**.
    - Foraging 5: **Gatherer**.
    - Combat 5: **Fighter**.
-6. **Recetas que se desbloquean en el camino:**
-   - **Preserves Jar:** Farming 4 de Nacho. Es para el Jelly.
-   - **Tapper:** Foraging 4 de Nacho; le faltan ~470 XP, que salen talando los tocones y árboles.
-   - **Cheese Press:** Farming 6. Es opcional.
-7. **Fertilizante:** usen Basic Fertilizer (2 Sap) debajo de los melones, el maíz y las chirivías para sacar calidad oro. Usen el Speed-Gro solo en los arándanos.
+8. **Recetas que vas a desbloquear:**
+   - **Bee House:** Farming 3.
+   - **Preserves Jar:** Farming 4.
+   - **Tapper:** Foraging 4 (te faltan ~470 XP, que salen de los tocones y árboles).
+   - **Staircase:** Mining 2.
+   - **Sprinkler:** ya la tienes. Craftea uno por cada Iron Bar que te sobre para regar menos.
+9. **Cueva de Demetrius:** cuando llegues a 25.000g ganados en total (vas en 22.878), aparece el evento. **Elige Hongos.** Te van a salir Purple, Red y Common Mushroom en casa, sin bajar tanto en la mina.
+10. **Comida para la mina:** lleva lo que sobre de las cosechas (fresas, coliflor), o Salad y Field Snack.
 
 ---
 
 ## 5. Plan día por día
 
-### 🌸 PRIMAVERA (días 20–28)
+### 🌸 PRIMAVERA
 
-**Sáb 20 (hoy) ☀️** (esta noche: Stone Owl)
-- **N ⭐**
-  - Cosechar las 16 coliflores listas, regar y despachar.
-  - Craftear **~40 Basic Fertilizer** (con 80 Sap).
-  - En Pierre: comprar **39 Parsnip Seeds** (780g). Ponerles fertilizante y sembrarlas en las 39 casillas vacías (cosecha el 24).
-  - Fundir 1 Copper Bar más en el horno (quedan 5).
-  - **Llevar el hacha a Clint → Copper Axe** (2.000g + 5 Copper Bar). Estará lista el 22.
-  - Tarde: pescar en el **lago de la montaña** para sacar **Bullhead** y **Chub**. Guardar ambos. El Bullhead se entrega; el Chub va al cofre CC (Field Research).
-- **S ⭐**
-  - Ascensor al 40 y bajar lo más posible.
-  - Buscar: **Frozen Tear** (en rocas y en los hielos del 40–79), **Aquamarine**, **1 Frozen Geode** (guardar sin abrir), **1 Bat Wing** (para tener 10), **Solar Essence** (Metal Heads y Ghosts), además de Iron Ore y **Cave Carrot**.
-  - Craftear 1–2 Staircase con piedra (dejen al menos 150 de piedra para el granero).
-  - Al volver, **entregar Adventurer's**: 10 Bat Wing + 1 Solar Essence ✅.
+**Sáb 20 ☀️** (esta noche: Stone Owl)
+- **Mañana:**
+  - Cosechar las 16 coliflores listas y regar todo. Despachar.
+  - Craftear **40 Basic Fertilizer** y **1 Furnace más**.
+  - Poner Copper Ore en los dos hornos. Quieres terminar con 10 Copper Bar: 5 para el hacha y 5 para el pico.
+- **9:00, Pierre:** comprar **39 Parsnip Seeds** (780g). Fertilizar y sembrar las 39 casillas vacías.
+- **Clint:** **Hacha → Copper Axe** (2.000g + 5 Copper Bar). Estará lista el lunes 22.
+- **Tarde:** lago de la montaña. Pescar **Bullhead** (entregar → Lake 3/4) y **Chub** (guardar en el cofre CC para Field Research).
 
-**Dom 21 ☀️** (hay carrito, pero no hace falta comprar nada)
-- **N ⭐**
-  - Cosechar las 24 coliflores restantes y regar.
-  - Ir a la **playa este** (el puente ya está reparado): recoger un **Cockle** → **Crab Pot Bundle ✅**. También **Sea Urchin**: guardarlo para Dye.
-  - Tarde: lago de la montaña, si falta el Bullhead o el Chub.
-- **S:** Mina, pisos ~50–60. Entregar **Frozen Tear** (Geologist's) y **Aquamarine** (cofre CC, para Dye) si ya los tiene.
+**Dom 21 ☀️**
+- **Mañana:** cosechar las 24 coliflores restantes y regar.
+- **Playa:**
+  - Recoger un **Cockle** → **Crab Pot ✅**.
+  - Cruzar el puente al este: recoger **Sea Urchin** (Dye) y guardarlo.
+- **Tarde, primera ida a la mina** (lleva el Pickaxe, la Rusty Sword y el Slingshot del cofre):
+  - Bajar al piso 1 para activar el ascensor y la misión de Marlon.
+  - **Ascensor al 10 y al 20: abrir los cofres de premio** (el del 20 trae un arma).
+  - **Ascensor al 40:** abrir el cofre y minar un rato. Buscas Iron Ore, **Frozen Tear**, **Aquamarine** y **1 Frozen Geode**, que guardas sin abrir.
+- **Noche:** llenar los hornos con cobre.
 
-**Lun 22 ☀️** (hongos en 84/93/98)
-- **N ⭐**
-  - Primera cosecha de **fresas** (~58) y despacharlas. Guardar 1 por si la Jelly de salmonberry no alcanza.
-  - Buscar el **Copper Axe** donde Clint.
-  - **Talar los 12 tocones grandes** de la granja: 24 Hardwood y ~300 XP de Foraging.
-  - **Entregar 10 Hardwood → Construction ✅**.
-  - Talar árboles (madera y Sap) hasta la tarde.
-- **S:** Mina 60–70. Guardar el Iron Ore.
+**Lun 22 ☀️**
+- **Mañana:**
+  - Cosechar **las fresas (~58)** y despacharlas. Guarda 2.
+  - Regar.
+- **Clint:** buscar el **Copper Axe** y dejar el **Pickaxe → Copper Pickaxe** (2.000g + 5 Copper Bar). Estará listo el jueves 25.
+- **Resto del día:**
+  - **Talar los 12 tocones grandes** → 24 Hardwood → **entregar 10 → Construction ✅**.
+  - Talar árboles por madera y Sap.
 
 **Mar 23 ☀️**
-- **N**
-  - Regar y seguir talando para juntar madera (meta: 350 para el granero, +80 para dos Tappers, +50 para el Preserves Jar).
-  - **En Pierre: comprar otras 39 Parsnip Seeds** para mañana (Pierre cierra el miércoles).
-  - Si ya subió a Farming 4 (debería, por las coliflores y las fresas), craftear **Preserves Jar** (50 madera, 40 piedra, 8 carbón) y cargarlo con **Salmonberry → Jelly**.
-- **S**
-  - Mina 70–80. Fundir Iron Bars.
-  - Opcional (muy útil): **mochila de 24 espacios** donde Pierre (2.000g).
+- **Mañana:** regar.
+- **Pierre:**
+  - Comprar **39 Parsnip Seeds** para mañana (Pierre cierra el miércoles).
+  - Comprar la **Mochila de 24** (2.000g). Es indispensable si juegas solo.
+- Si ya subiste a **Farming 4**, craftear el **Preserves Jar** (50 madera, 40 piedra, 8 carbón) y cargarlo con **Salmonberry → Jelly**.
+- **Resto del día:** talar. Necesitas ~350 de madera para el granero y 160 para 4 Tappers.
 
 **Mié 24 ☀️ – Flower Dance**
-- **N antes de las 9am:**
-  - Cosechar las chirivías fertilizadas. Si hay **5 de calidad oro**, entregarlas → **Quality Crops 1/3**.
-  - Replantar chirivías con fertilizante en las mismas casillas.
-- **Ambos:** ir a la Flower Dance. El día termina al salir del festival.
+- **Antes de las 9:**
+  - Cosechar las chirivías. Si hay **5 de oro → Quality Crops 1/3**.
+  - Replantar con fertilizante y regar.
+- Ir a la Flower Dance.
 
 **Jue 25 ☀️**
-- **N**
-  - Sacar la Jelly y **entregarla → Artisan 1/6**. Volver a llenar el frasco (con Salmonberry o fresa).
-  - Si ya tiene **Foraging 4**, craftear **4 Tappers** (40 madera + 2 Copper Bar cada uno) y ponerlos en **el roble maduro** de la granja (Oak Resin, ~7 días), en **1 pino maduro** (Pine Tar, ~5 días) y en **2 arces maduros** del Bosque Cindersap (Maple Syrup, ~9 días). Si todavía no llega a Foraging 4, seguir talando: apenas suba, pone los Tappers.
-- **S:** Mina, hasta llegar al **80**. Guardar el **Gold Ore**.
+- **Mañana:**
+  - Regar.
+  - Sacar la **Jelly → Artisan 1/6**.
+- **Clint:** buscar el **Copper Pickaxe**.
+- Si ya tienes **Foraging 4**, craftear **4 Tappers** y ponerlos así:
+  - 1 en el **roble** de la granja (Oak Resin, 7 días).
+  - 1 en un **pino** de la granja (Pine Tar, 5 días).
+  - 2 en **arces maduros** del Bosque Cindersap (Maple Syrup, 9 días).
+- **Tarde: mina desde el 40.** Frozen Tear, Aquamarine, **1 Bat Wing** (para las 10) y **Solar Essence**.
+  - **Entregar 10 Bat Wing + Solar Essence → Adventurer's ✅.**
 
-**Vie 26 ☀️ – CARRITO** (hongos en el 82)
-- **N ⭐**
-  - Segunda cosecha de fresas.
-  - **Carrito: Fiddlehead Fern (900g) + Tuna (500g)**. Entregar la **Tuna → Ocean 2/4** y el **Fiddlehead → Chef's 1/6**.
-- **S**
-  - Mina 80+. Juntar **5 Gold Ore → Gold Bar → Blacksmith's ✅**.
-  - Buscar **Fire Quartz** → **Geologist's ✅**.
-  - Con eso, **Boiler Room completo** (se desbloquean las vagonetas).
+**Vie 26 ☀️ – CARRITO ⭐**
+- **Mañana:** cosechar las fresas y regar.
+- **Carrito:** comprar **Fiddlehead Fern (900g) → Chef's 1/6** y **Tuna (500g) → Ocean 2/4**.
+- **Tarde:** mina, pisos 40–50.
 
 **Sáb 27 ☀️**
-- **N ⭐**
-  - **Donde Robin: pedir el Barn** (6.000g, 350 madera, 150 piedra). Queda listo el 2 de Verano. Si les falta madera, Robin la vende.
-  - Terminar de talar y regar.
-- **S:** Mina 80–90. Juntar **Purple Mushroom** (pisos de hongos), más Iron y Gold.
+- **Robin:** **Barn** (6.000g + 350 madera + 150 piedra). Si te falta madera, se la compras a ella. Queda listo el 2 de Verano.
+- **Resto del día:** mina 45–55.
 
-**Dom 28 ☀️** (último día de primavera; hongos en el 88)
-- **N**
-  - Cosechar la 2ª tanda de chirivías. Si todavía faltan 5 de oro, completar y entregar.
-  - Arar el terreno para el verano: ~40 casillas para arándanos, ~35 para melón, ~20 para maíz y ~15 para varios. Aplicar **Basic Fertilizer** donde van el melón y el maíz, y **Speed-Gro** donde van los arándanos.
-- **S**
-  - Mina. **Entregar el Purple Mushroom → Exotic Foraging 1/5** y el **Cave Carrot → Exotic 2/5**.
-  - Guardar un segundo Purple Mushroom para Field Research.
+**Dom 28 ☀️** (último día de primavera)
+- **Mañana:** cosechar la 2ª tanda de chirivías. Si todavía no tenías las 5 de oro, completarlas ahora.
+- **Arar para el verano (~85 casillas):**
+  - Basic Fertilizer donde va el melón y el maíz.
+  - Speed-Gro donde van los arándanos.
+- **Tarde:** mina.
 
 ---
 
 ### ☀️ VERANO
 
 **Lun 1 ☀️**
-- **N ⭐ Pierre (≈9.000g):**
+- **Pierre (≈5.500g):**
 
   | Semilla | Cantidad | Para qué |
   |---|---|---|
-  | Blueberry | 40 | Bundle y plata |
-  | Melon | 15 (más las 18 que tienen) | Bundle y Quality Crops |
-  | Corn | 20 | Fall Crops y Quality |
-  | Hot Pepper | 5 | Bundle |
-  | Tomato | 5 | Bundle |
-  | **Wheat** | 15 | Fodder |
-  | **Poppy** | 3 | Chef's |
-  | **Sunflower** | 3 | Dye |
+  | Blueberry | 25 | Bundle y plata |
+  | Melon | 7 (más las 18 que tienes) | Bundle y Quality Crops |
+  | Corn | 15 | Fall Crops y Quality |
+  | Wheat | 12 | Fodder |
+  | Hot Pepper | 2 | Bundle |
+  | Tomato | 2 | Bundle |
+  | Poppy | 2 | Chef's |
+  | Sunflower | 2 | Dye |
 
-  Plantar todo hoy mismo.
-- **S:** Mina. Buscar un **piso de hongos** (hoy el 117).
+- Sembrar todo y regar.
+- **Tarde:** mina.
 
-**Mar 2 🌧 LLUVIA** (esta noche: terremoto)
-- **N ⭐:** No hay que regar. **Pesca en el océano todo el día.** Buscar **Red Snapper** (solo con lluvia, en verano y otoño) y **Tilapia** (6am–2pm). Si salen, entregar.
-- **S:** Mina 90+. Hoy hay hongos en el 82 y el 119. Guardar la **Void Essence** que caiga.
-- El Barn ya está listo.
+**Mar 2 🌧 (sin regar)** → **Océano todo el día.** Buscas **Red Snapper** (solo con lluvia) y **Tilapia** (6am–2pm). El Barn queda listo.
 
-**Mié 3 ☀️** (el Railroad queda abierto)
-- **N:** Regar. Tarde: océano entre **12 y 4pm** para intentar el **Pufferfish**.
-- **S:** **Donde Marnie: comprar 1 Cow** (1.500g). Acariciarla todos los días. Después, a la mina.
+**Mié 3 ☀️**
+- **Marnie:** comprar **1 Cow** (1.500g). Acariciarla todos los días.
+- **Tarde:** mina 55–65.
 
-**Jue 4 🌧 LLUVIA**
-- **N ⭐:** Océano otra vez, si falta el **Red Snapper** o la **Tilapia**. Con Tuna + Red Snapper + Tilapia, **Ocean Fish ✅**.
-- **S:** Mina 100+ (el Iridium no es necesario). Guardar la **Void Essence**.
+**Jue 4 🌧 (sin regar)**
+- Si todavía te falta un pez del océano, vuelve a la playa.
+- Si no, **mina todo el día**, meta piso 70. Con Tuna + Red Snapper + Tilapia → **Ocean ✅**.
 
 **Vie 5 ☀️ – CARRITO ⭐**
-- **Comprar Walleye (525g) + Apricot (1.000g).** Entregar el **Walleye → Night Fishing ✅** y el **Apricot → Artisan 2/6**.
-- Cosechar el **Wheat**: juntar 10 para **Fodder** (guardar en el cofre CC).
-- **N:** Si tienen ≥10.000g, **en Pierre comprar Apple Sapling (4.000g) + Pomegranate Sapling (6.000g)**. Plantarlos con los 8 cuadros de alrededor libres. Maduran en 28 días (~3 de Otoño) y dan fruta todo el otoño. **Fecha límite para plantarlos: 15 de Verano.**
-- **S:** Mina y fundir Iron Bars (necesitan 5 para el Steel Axe y 1 para la Bee House).
+- **Carrito:** comprar **Walleye (525g) → Night Fishing ✅** y **Apricot (1.000g) → Artisan 2/6**.
+- Cosechar el **Wheat**: guarda 10 para Fodder.
+- **Tarde:** mina.
 
 **Sáb 6 ☀️**
-- **N:** Cosechar el **Hot Pepper** y entregarlo (Summer Crops 1/4). Pescar en el río.
-- **S:** Mina. Hoy hay hongos en el 83.
+- Cosechar el **Hot Pepper** y guardarlo en el cofre CC.
+- Juntar Oak Resin y Pine Tar de los Tappers y guardarlos.
+- **Tarde:** mina (hongos en el 83).
 
 **Dom 7 ☀️ – CARRITO ⭐**
-- **Comprar Wine (1.200g) + Tiger Trout (800g).** Entregar el **Wine → Enchanter's 1/4** y la **Tiger Trout → River Fish ✅**.
-- **N:** Revisar los Tappers. El **Oak Resin** va al cofre CC: el primero para Enchanter's, el segundo para Exotic.
+- **Carrito:** comprar **Wine (1.200g) → Enchanter's 1/4** y **Tiger Trout (800g) → River ✅**.
+- **Tarde:** mina.
 
-**Lun 8 ☀️** (hongos en 81/88/112/118)
-- **N:** Cosechar las **Poppy → Chef's 2/6**.
-- **S ⭐:** Mina, pisos de hongos → **Purple Mushroom** (uno para Field Research y otro para Exotic).
+**Lun 8 ☀️**
+- Cosechar la **Poppy → Chef's 2/6**.
+- **Mina:** meta piso 80. Hoy hay hongos en el 81 y el 88.
 
-**Mar 9 ☀️** (tren 1:50pm; hongos en 81/102/103)
-- **N:** Ya debería haber salido el **Maple Syrup** de los Tappers de arce (entre el 6 y el 9 de Verano, según el día en que los pusieron).
+**Mar 9 ☀️**
+- Cosechar el **Sunflower** y guardarlo (Dye).
+- Sale el **Maple Syrup**:
   - Syrup #1 → **Chef's 3/6**.
-  - Syrup #2 → **Exotic**.
-  - Syrup #3 → **Bee House**: Sofi la craftea (40 madera, 8 carbón, 1 Iron Bar, 1 Maple Syrup) y se pone junto a las flores (girasoles o poppies).
-- **S:** Cosechar el **Sunflower → Dye** y guardarlo en el cofre CC.
+  - Syrup #2 → guardarlo para Exotic.
+  - Syrup #3 → craftear la **Bee House** (40 madera, 8 carbón, 1 Iron Bar, 1 Maple Syrup) y ponerla cerca de las flores.
+- **Tarde:** mina (hongos en el 81).
 
-**Mié 10 ☀️**
-- **N:** Regar. Lago de la montaña, **Sturgeon** (6am–7pm, verano). Si le cuesta, comprar el **Trap Bobber** donde Willy cuando tenga Fishing 6.
-- **S:** Mina. El **Pine Tar** del Tapper del pino va al cofre CC (para Exotic).
+**Mié 10 ☀️ – Día de pesca**
+- **Pierre:** si ya juntaste 10.000g, comprar **Apple Sapling (4.000g)** y **Pomegranate Sapling (6.000g)**. Plantarlos con los 8 cuadros de alrededor libres.
+  > **Fecha límite para plantarlos: 15 de Verano.** Maduran en 28 días y dan fruta todo el otoño.
+- **Tarde:** lago de la montaña. **Sturgeon** (6am–7pm). Si no sale, lo intentas otra vez en invierno.
 
-**Jue 11 ☀️ – Luau.** En la mañana: regar y hacer las tareas. Después, al festival.
+**Jue 11 ☀️ – Luau.** Tareas de la mañana y después al festival.
 
 **Vie 12 ☀️ – CARRITO ⭐**
-- **Comprar Cloth (1.410g) + Duck Feather (750g).** Si falta la Tilapia, comprarla también (700g).
-- Entregar el **Cloth → Artisan 3/6**.
-- **Dye:** Red Mushroom (el de oro del cofre), Sea Urchin, Sunflower, Duck Feather y Aquamarine: 5/6. Solo falta el Red Cabbage, que se compra el 19 de Otoño.
+- **Carrito:** comprar **Cloth (1.410g) → Artisan 3/6** y **Duck Feather (750g)**. Si todavía no pescaste la **Tilapia**, cómprala (700g).
+- **Dye 5/6:** Red Mushroom de oro, Sea Urchin, Sunflower, Duck Feather y Aquamarine. Solo falta el Red Cabbage (19 de Otoño).
+- **Tarde:** mina.
 
-**Sáb 13 ⛈ TORMENTA**
-- **N:** Océano: respaldo de **Red Snapper**. Primeros **Melones** y **Tomates** (guardar los de oro).
-- **S:** Mina.
+**Sáb 13 ⛈ (sin regar)**
+- Cosechar **Melones** y **Tomates**.
+- **Mina todo el día, pisos 80+:**
+  - **5 Gold Ore → Gold Bar → Blacksmith's ✅**.
+  - **Fire Quartz → Geologist's ✅**.
+  - Con eso, **Boiler Room ✅**.
 
-**Dom 14 ☀️ – CARRITO ⭐** (hongos en el 91)
-- **Comprar Duck Egg (700g) + Wool (1.020g).** Entregar ambos → **Animal 2/5**.
-- **N:** Cosechar los **Arándanos** y entregar **Summer Crops ✅** (Tomato, Hot Pepper, Blueberry, Melon).
-- **Quality Crops:** si ya tienen **5 Melones de oro**, entregarlos → **2/3**.
-- La **Honey** de la Bee House va a **Artisan 4/6**.
+**Dom 14 ☀️ – CARRITO ⭐**
+- **Carrito:** comprar **Duck Egg (700g) + Wool (1.020g) → Animal 2/5**.
+- Cosechar los **Arándanos** → **Summer Crops ✅**.
+- Si tienes **5 Melones de oro → Quality Crops 2/3**.
+- La **Honey** de la Bee House → **Artisan 4/6**.
 
 **Lun 15 ☀️**
-- **N:** Pagar la **Vault 2.500g ✅**. Cosechar el Maíz y guardar 5 de oro.
-- **S:** Llevar el hacha de Nacho a Clint → **Steel Axe** (5.000g + 5 Iron Bar). Queda lista el 17.
+- Si no alcanzaste el 10, **último día para plantar los árboles frutales**.
+- **Tarde:** mina (Purple Mushroom en pisos de hongos).
 
-**Mar 16 🟢 GREEN RAIN**
-- **N:** No hay que regar. Juntar musgo y semillas. Forrajear por verano: **Spice Berry, Grape y Sweet Pea**, en el bosque y la montaña.
+**Mar 16 🟢 Green Rain (sin regar)**
+- Forrajear en el bosque y la montaña: **Spice Berry, Grape y Sweet Pea → Summer Foraging ✅**.
+- **Tarde:** mina.
 
-**Mié 17 ☀️** (hongos en 91/106/113)
-- **N ⭐**
-  - Buscar el **Steel Axe**.
-  - Romper el tronco grande del Bosque Cindersap y entrar al **Secret Woods**.
-  - Pescar en el estanque: **Woodskip**. Guardarlo.
-  - Buscar un **Morel** (opcional).
-- **S:** Mina, pisos de hongos.
+**Mié 17 ☀️** → **Mina, pisos de hongos (91/106/113).** Buscas **Purple Mushroom**: uno para Exotic y otro para Field Research.
 
 **Jue 18 ☀️**
-- **N:** Forrajear para completar **Summer Foraging ✅**. Pagar la **Vault 5.000g ✅** si alcanza.
-- **S:** Mina 100–120. Entregar el **Exotic Foraging**: 5 de Cave Carrot / Purple Mushroom / Maple Syrup / Oak Resin / Pine Tar ✅.
+- Entregar **Exotic Foraging ✅**: Purple Mushroom, Maple Syrup, Oak Resin, Pine Tar y Cave Carrot (sale en la mina).
+- **Tarde:** pesca o mina, lo que te falte.
 
-**Vie 19 ☀️ – CARRITO ⭐** → comprar **Ghostfish (200g) → Specialty 1/4** (y la Woodskip → 2/4).
+**Vie 19 ☀️ – CARRITO ⭐** → comprar **Ghostfish (200g) → Specialty 1/4**.
+- **Tarde:** mina o pesca para juntar plata.
 
-**Sáb 20 – Dom 21 ☀️ Trout Derby**
-- **N:** Participar en el derby (en el río). Juntar Maíz de oro → **Quality Crops ✅**.
-- **Dom 21:** ver la TV (Queen of Sauce) para aprender la receta del **Maki Roll** (también se compra donde Gus por 300g).
+**Sáb 20 – Dom 21 – Trout Derby**
+- Juntar **Maíz de oro → Quality Crops ✅**.
+- **Dom 21:** ver la TV (Queen of Sauce) para aprender la receta del **Maki Roll**. Si no aparece, cómprala donde Gus (300g).
 
-**Lun 22 → Jue 25 ☀️**
-- **N:**
-  - Cocinar el **Maki Roll** en el **Cookout Kit** (15 madera, 10 fibra, 3 carbón). Se hace con cualquier pez + Seaweed (sale pescando en el océano) + Rice (Pierre, 200g). Entregar → **Chef's 4/6**.
-  - Seguir cosechando arándanos y despachando para juntar plata para la Vault.
-  - Si no han conseguido el Sturgeon, ir al lago de la montaña todas las tardes.
-- **S:** Mina y ventas (minerales, geodas).
+**Lun 22 → Jue 25**
+- **Maki Roll:** cocinarlo en el **Cookout Kit** (15 madera, 10 fibra, 3 carbón). Se hace con cualquier pez + Seaweed (sale pescando en el océano) + Rice (Pierre). Entregar → **Chef's 4/6**.
+- Seguir cosechando arándanos y vendiendo para juntar plata para la Vault.
+- **Vault 2.500g ✅** cuando te alcance.
+- Si te falta el **Sturgeon**, lago de la montaña en las tardes.
 
-**Vie 26 ⛈ TORMENTA – CARRITO**
-- Si todavía falta Pine Tar, comprarlo (500g).
-- **N:** Océano, por si todavía falta algún pez del mar.
+**Vie 26 ⛈ (sin regar) – CARRITO**
+- Si te falta Pine Tar, comprarlo (500g).
+- **Día completo de mina o de pesca en el océano.**
 
-**Sáb 27 ☀️** (tren 3:50pm): Comprar **10 Hay** donde Marnie (50g c/u) y guardarlo para **Fodder**.
+**Sáb 27 ☀️** → **Marnie:** comprar **10 Hay** (50g c/u) y guardarlos para Fodder.
 
-**Dom 28 ☀️ – CARRITO + Moonlight Jellies**
-- Si no pescaron el **Pufferfish**, comprarlo (700g) → **Specialty 3/4**.
-- Preparar el terreno para el otoño: el maíz sigue produciendo en otoño, no hay que arrancarlo.
+**Dom 28 ☀️ – CARRITO** → comprar **Pufferfish (700g) → Specialty 2/4**. En la noche, Moonlight Jellies.
 
 ---
 
 ### 🍂 OTOÑO
 
 **Lun 1 ☀️**
-- **N ⭐ Pierre:**
+- **Pierre:**
 
-  | Semilla | Cantidad | Nota |
+  | Semilla | Cantidad | Para qué |
   |---|---|---|
-  | Pumpkin | 10 | Con fertilizante |
-  | Eggplant | 5 | |
-  | Yam | 5 | |
-  | Cranberry | Lo que alcance | Para plata |
+  | Pumpkin | 3 | Fall Crops |
+  | Eggplant | 2 | Fall Crops |
+  | Yam | 2 | Fall Crops |
+  | Cranberry | Lo que te alcance | Plata para la Vault (dan cada 5 días) |
 
-  El **Corn** ya lo tienen del verano.
-- **S:** No hace falta bajar más. Su trabajo ahora es juntar plata para la Vault: pisos 80–120 para vender oro, rubíes, etc.
+  El maíz sigue produciendo desde el verano.
+- Pagar la **Vault 5.000g ✅** si alcanza.
 
-**Mar 2 → Jue 4 (🌧 el 4)**
-- **N:** Si falta la Tiger Trout o el Walleye, el 4 (lluvia) pescar en el río (Walleye 12pm–2am).
-- **Los árboles frutales maduran** 28 días después de plantarlos (~5 de Otoño si los plantaron el 5 de Verano). Desde ahí dan 1 **Apple** y 1 **Pomegranate** por día.
+**Mar 2 ☀️**
+- **Clint:** **Hacha → Steel Axe** (5.000g + 5 Iron Bar). Estará lista el jueves 4.
+- **Tarde:** mina, para juntar plata.
 
-**Vie 5 ☀️ – CARRITO ⭐⭐** → **Rabbit's Foot (2.825g)** → **Enchanter's 3/4**.
-- Con la primera **Pomegranate**: **Enchanter's ✅** (Oak Resin, Wine, Rabbit's Foot, Pomegranate).
-- Tomar **Apple + Pomegranate → Artisan 6/6 ✅** (Jelly, Honey, Apricot, Cloth, Apple, Pomegranate).
+**Jue 4 🌧 (sin regar)**
+- Buscar el **Steel Axe** y romper el tronco grande de la entrada del **Secret Woods**.
+- Pescar en el estanque: **Woodskip → Specialty 3/4**.
+- **En la noche (12pm–2am, con lluvia):** Walleye de respaldo, si no lo compraste en el carrito.
 
-**Sáb 6** → **Eggplant → Fall Crops 1/4.** Cosechar **Corn → Fall Crops 2/4**.
+**Vie 5 ☀️ – CARRITO ⭐⭐** → **Rabbit's Foot (2.825g) → Enchanter's**.
+- En cuanto salga la **1ª Pomegranate** (~5–10 de Otoño): **Enchanter's ✅**.
+- Con **Apple + Pomegranate → Artisan ✅**.
 
-**Dom 7 ☀️ – CARRITO ⭐** → **Fried Egg (400g) → Chef's 5/6** y **Coconut (300g)** (respaldo de Exotic).
+**Sáb 6** → Cosechar la **Eggplant** y el **Corn** (→ Fall Crops).
 
-**Lun 8 → Jue 11 ☀️ – Temporada de Blackberry**
-- **Ambos:** forrajear **Blackberry, Hazelnut, Wild Plum y Common Mushroom** → **Fall Foraging ✅**.
-- **N:** Juntar **3 Apple** → **Fodder ✅** (Wheat, Hay, Apple).
-- Pagar la **Vault 10.000g ✅** cuando alcance.
-- Cosechar el **Yam → Fall Crops 3/4**.
+**Dom 7 ☀️ – CARRITO ⭐** → comprar **Fried Egg (400g) → Chef's 5/6** y **Coconut (300g)** (respaldo de Exotic).
 
-**Sáb 13 🌧:** Pescar en el río o el lago si todavía falta algo.
+**Lun 8 → Jue 11 – Temporada de Blackberry**
+- Forrajear **Blackberry, Hazelnut, Wild Plum y Common Mushroom → Fall Foraging ✅**.
+- Cosechar el **Yam**.
+- Juntar **3 Apple → Fodder ✅**.
 
-**Dom 14 ☀️ – CARRITO ⭐⭐ + Fairy esta noche**
-- **N:** Cosechar la **Pumpkin** (13 días desde el 1 de Otoño) → **Fall Crops ✅**.
-- **Comprar Truffle (2.500g) → Chef's ✅** (Maple Syrup, Fiddlehead, Truffle, Poppy, Maki Roll, Fried Egg).
-- Esta noche el hada hace crecer un cultivo completo: tengan plantada una zona grande de cranberry o pumpkin.
+**Sáb 13 🌧** → Día de pesca o de mina para lo que falte.
 
-**Mar 16 – Feria.** Llevar productos para ganar star tokens (opcional).
+**Dom 14 ☀️ – CARRITO ⭐⭐**
+- **Carrito:** comprar **Truffle (2.500g) → Chef's ✅**.
+- Cosechar la **Pumpkin → Fall Crops ✅**.
+- Esta noche viene el hada.
+
+**Mar 16 – Feria** (opcional).
 
 **Vie 19 ☀️ – CARRITO ⭐⭐** → **Red Cabbage (780g) → Dye ✅**.
 
 **Dom 21 ☀️ – CARRITO ⭐**
-- **Comprar Sandfish (900g) → Specialty Fish ✅** (Pufferfish, Ghostfish, Sandfish, Woodskip).
-- Con esto el **Fish Tank está completo ✅** (si ya tienen Lake y Ocean).
-- **Comprar Large Egg blanco (300g) → Animal 3/5.**
+- **Carrito:** comprar **Sandfish (900g) → Specialty ✅** y **Large Egg blanco (300g)**.
+- Con eso, **Fish Tank ✅** (si ya tienes el Sturgeon).
 - Si la vaca ya da **Large Milk → Animal 4/5**.
 
-**Lun 22 → Sáb 27 (🌧 24 y 26, Spirit's Eve el 27)**
-- Pagar la **Vault 25.000g ✅**. Se repara el bus.
-- **N:** Si falta el Sturgeon, se puede pescar de nuevo en invierno.
+**Lun 22 → Sáb 27** → Cranberries y mina para juntar plata. Pagar la **Vault 10.000g ✅**.
 
-**Dom 28 ☀️ – CARRITO ⭐** → **Large Egg café (285g) → Animal ✅**. Con eso, **Pantry ✅** (Greenhouse).
+**Dom 28 ☀️ – CARRITO ⭐** → comprar **Large Egg café (285g) → Animal ✅ → Pantry ✅**.
 
 ---
 
 ### ❄️ INVIERNO
 
-**Lun 1 → Vie 5**
-- **Ambos:** forrajear en invierno.
-  - **Crocus** y **Crystal Fruit**: en el suelo, por todo el mapa.
-  - **Snow Yam** y **Winter Root**: arar la tierra o cavar en los artifact spots.
-- **N:** Ir a la playa por el **Nautilus Shell** → **Field Research ✅** (Purple Mushroom, Nautilus Shell, Chub, Frozen Geode).
-- Si falta el **Sturgeon**, se pesca en el lago de la montaña en invierno.
+**1–10 de Invierno**
+- **Forrajear:**
+  - **Crocus** y **Crystal Fruit** en el suelo.
+  - **Snow Yam** y **Winter Root** arando la tierra o cavando artifact spots.
+  - Con los cuatro → **Winter Foraging ✅ → Crafts Room ✅**.
+- **Playa:** **Nautilus Shell → Field Research ✅ → Bulletin Board ✅**.
+- **Sturgeon:** si te falta, se pesca en el lago de la montaña en invierno.
+- **Vault 25.000g ✅.** En invierno se junta con la mina (pisos 80–120) y la pesca.
+- 🎉 **COMMUNITY CENTER COMPLETO.**
 
-**Hasta ~10 de Invierno ⭐**
-- **Winter Foraging ✅** → **Crafts Room ✅** y **Bulletin Board ✅**.
-- 🎉 **COMMUNITY CENTER COMPLETO.** Al día siguiente de entrar al pueblo viene la ceremonia.
-
-**15–17 Invierno (Night Market) y 26/28 Invierno:** son solo respaldos (Nautilus, Sandfish, Pufferfish, **Woodskip el 28**).
+**Respaldos:** el Night Market (15–17) y el carrito del 26 y el **28 de Invierno (Woodskip)**.
 
 ---
 
-## 6. Resumen de fechas de entrega de cada cuarto
+## 6. Cuándo se completa cada cuarto
 
-| Cuarto | Última pieza | Fecha objetivo |
-|---|---|---|
-| Boiler Room | Gold Bar + Fire Quartz | 26 Primavera – 10 Verano |
-| Fish Tank | Sandfish (carrito) | 21 Otoño |
-| Pantry | Large Egg café (carrito) | 28 Otoño |
-| Vault | 25.000g | ~25 Otoño |
-| Bulletin Board | Nautilus Shell | ~1–5 Invierno |
-| Crafts Room | Winter Foraging | ~1–10 Invierno |
+| Cuarto | Fecha objetivo |
+|---|---|
+| Boiler Room | ~13–18 Verano |
+| Fish Tank | 21 Otoño |
+| Pantry | 28 Otoño |
+| Bulletin Board | ~1–5 Invierno |
+| Crafts Room | ~1–10 Invierno |
+| Vault | Otoño–Invierno (cuando junte los 42.500g) |
 
-## 7. Presupuesto aproximado
+## 7. Presupuesto aproximado (solo)
 
 | Gasto | Oro |
 |---|---|
-| Copper Axe + Steel Axe | 7.000 |
+| Hacha de cobre + Hacha de acero + Pico de cobre | 9.000 |
+| Mochila | 2.000 |
 | Barn + vaca | 7.500 |
 | Árboles Apple + Pomegranate | 10.000 |
-| Semillas de verano y otoño | ~14.000 |
+| Semillas | ~9.000 |
 | Carrito (obligatorio) | ~18.600 |
 | Vault | 42.500 |
-| **Total** | **~100.000g** |
-
-Deberían alcanzar a cubrirlo con las fresas y coliflores de ahora, dos cosechas de arándanos y melón en verano, arándano rojo en otoño y la pesca de Nacho.
+| **Total** | **~98.600g** |
